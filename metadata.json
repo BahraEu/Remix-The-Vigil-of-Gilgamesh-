@@ -1,0 +1,8 @@
+{
+  "name": "Remix The Vigil of Gilgamesh — Screenplay \u0026 Director\u0027s Studio",
+  "description": "An interactive screenplay, cinematography storyboard, soundscape table read, and Tablet XI archival study of Gilgamesh and Utnapishtim at the Edge of the World.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
